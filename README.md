@@ -52,9 +52,3 @@ Este projeto consiste em uma aplicação full-stack para gestão de produtos. A 
 ## Autor
 - **Erick Carrasco Oliveira**
 
-# DOCUMENTAÇÃO
-
-# Nome do Projeto
-
-Aqui está o link para a [Documentação]([https://github.com/usuario/nome-do-repositorio/blob/main/pasta/arquivo.pdf](https://github.com/kcarrasc0/ProjetoFullStack/blob/main/Documentação%20do%20Projeto%20-%20Arquitetura%20e%20Estrutura.pdf))
-
